@@ -1,0 +1,38 @@
+[
+  {
+    "macuonsach": "CS-359-127",
+    "madausach": "LTV-0404-2012",
+    "mancc": "NCC-001",
+    "soluongton": 6
+  },
+  {
+    "macuonsach": "CS-368-366",
+    "madausach": "LTV-0511-2016",
+    "mancc": "NCC-001",
+    "soluongton": 7
+  },
+  {
+    "macuonsach": "CS-378-912",
+    "madausach": "LTV-2105-1975",
+    "mancc": "NCC-001",
+    "soluongton": 9
+  },
+  {
+    "macuonsach": "CS-371-266",
+    "madausach": "LTV-2155-2014",
+    "mancc": "NCC-001",
+    "soluongton": 15
+  },
+  {
+    "macuonsach": "CS-377-210",
+    "madausach": "TLH-0133-2015",
+    "mancc": "NCC-002",
+    "soluongton": 10
+  },
+  {
+    "macuonsach": "CS-259-102",
+    "madausach": "TLH-0123-2017",
+    "mancc": "NCC-002",
+    "soluongton": 12
+  }
+]

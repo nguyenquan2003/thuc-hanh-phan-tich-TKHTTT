@@ -1,0 +1,44 @@
+[
+  {
+    "madausach": "LTV-0404-2012",
+    "tendausach": "Clean Code",
+    "sotrang": 512,
+    "tacgia": "Robert Martin",
+    "giatien": 308800
+  },
+  {
+    "madausach": "LTV-0511-2016",
+    "tendausach": "Code Complete",
+    "sotrang": 1064,
+    "tacgia": "Steve McConnell",
+    "giatien": 1178000
+  },
+  {
+    "madausach": "LTV-2105-1975",
+    "tendausach": "The Mythical Man-Month",
+    "sotrang": 1566,
+    "tacgia": "Fred Brooks",
+    "giatien": 999000
+  },
+  {
+    "madausach": "LTV-2155-2014",
+    "tendausach": "C++ Game Development Primer",
+    "sotrang": 292,
+    "tacgia": "Bruce Sutherland",
+    "giatien": 385000
+  },
+  {
+    "madausach": "TLH-0133-2015",
+    "tendausach": "Trí tuệ Do Thái",
+    "sotrang": 664,
+    "tacgia": "Eran Katz",
+    "giatien": 170100
+  },
+  {
+    "madausach": "TLH-0123-2017",
+    "tendausach": "Tư duy nhanh và chậm",
+    "sotrang": 554,
+    "tacgia": "Daniel Kahneman",
+    "giatien": 242100
+  }
+]

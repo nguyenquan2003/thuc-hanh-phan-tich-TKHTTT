@@ -1,0 +1,22 @@
+[
+  {
+    "maddh": "DDH-500-277",
+    "madausach": "LTV-0404-2012",
+    "soluong": 10
+  },
+  {
+    "maddh": "DDH-500-277",
+    "madausach": "LTV-0511-2016",
+    "soluong": 10
+  },
+  {
+    "maddh": "DDH-611-994",
+    "madausach": "LTV-0404-2012",
+    "soluong": 10
+  },
+  {
+    "maddh": "DDH-611-994",
+    "madausach": "LTV-0511-2016",
+    "soluong": 10
+  }
+]
